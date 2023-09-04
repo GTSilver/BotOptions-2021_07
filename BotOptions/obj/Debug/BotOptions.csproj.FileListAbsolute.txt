@@ -1,0 +1,31 @@
+D:\яя\BotOptions\BotOptions\bin\Debug\BotOptions.exe.config
+D:\яя\BotOptions\BotOptions\bin\Debug\BotOptions.exe
+D:\яя\BotOptions\BotOptions\bin\Debug\BotOptions.pdb
+D:\яя\BotOptions\BotOptions\obj\Debug\BotOptions.csproj.AssemblyReference.cache
+D:\яя\BotOptions\BotOptions\obj\Debug\BotOptions.Form1.resources
+D:\яя\BotOptions\BotOptions\obj\Debug\BotOptions.Properties.Resources.resources
+D:\яя\BotOptions\BotOptions\obj\Debug\BotOptions.csproj.GenerateResource.cache
+D:\яя\BotOptions\BotOptions\obj\Debug\BotOptions.csproj.CoreCompileInputs.cache
+D:\яя\BotOptions\BotOptions\obj\Debug\BotOptions.exe
+D:\яя\BotOptions\BotOptions\obj\Debug\BotOptions.pdb
+D:\Рабочий стол\,Программирование\Visual Studio\BotOptions\BotOptions\bin\Debug\BotOptions.exe.config
+D:\Рабочий стол\,Программирование\Visual Studio\BotOptions\BotOptions\bin\Debug\BotOptions.exe
+D:\Рабочий стол\,Программирование\Visual Studio\BotOptions\BotOptions\bin\Debug\BotOptions.pdb
+D:\Рабочий стол\,Программирование\Visual Studio\BotOptions\BotOptions\obj\Debug\BotOptions.csproj.AssemblyReference.cache
+D:\Рабочий стол\,Программирование\Visual Studio\BotOptions\BotOptions\obj\Debug\BotOptions.csproj.SuggestedBindingRedirects.cache
+D:\Рабочий стол\,Программирование\Visual Studio\BotOptions\BotOptions\obj\Debug\BotOptions.Form1.resources
+D:\Рабочий стол\,Программирование\Visual Studio\BotOptions\BotOptions\obj\Debug\BotOptions.Properties.Resources.resources
+D:\Рабочий стол\,Программирование\Visual Studio\BotOptions\BotOptions\obj\Debug\BotOptions.csproj.GenerateResource.cache
+D:\Рабочий стол\,Программирование\Visual Studio\BotOptions\BotOptions\obj\Debug\BotOptions.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\,Программирование\Visual Studio\BotOptions\BotOptions\obj\Debug\BotOptions.exe
+D:\Рабочий стол\,Программирование\Visual Studio\BotOptions\BotOptions\obj\Debug\BotOptions.pdb
+D:\Рабочий стол\C#\BotOptions\BotOptions\bin\Debug\BotOptions.exe.config
+D:\Рабочий стол\C#\BotOptions\BotOptions\bin\Debug\BotOptions.exe
+D:\Рабочий стол\C#\BotOptions\BotOptions\bin\Debug\BotOptions.pdb
+D:\Рабочий стол\C#\BotOptions\BotOptions\obj\Debug\BotOptions.csproj.AssemblyReference.cache
+D:\Рабочий стол\C#\BotOptions\BotOptions\obj\Debug\BotOptions.Form1.resources
+D:\Рабочий стол\C#\BotOptions\BotOptions\obj\Debug\BotOptions.Properties.Resources.resources
+D:\Рабочий стол\C#\BotOptions\BotOptions\obj\Debug\BotOptions.csproj.GenerateResource.cache
+D:\Рабочий стол\C#\BotOptions\BotOptions\obj\Debug\BotOptions.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\C#\BotOptions\BotOptions\obj\Debug\BotOptions.exe
+D:\Рабочий стол\C#\BotOptions\BotOptions\obj\Debug\BotOptions.pdb
